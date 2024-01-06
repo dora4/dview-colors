@@ -16,3 +16,7 @@ dependencies {
     implementation 'com.github.dora4:dview-colors:1.0'
 }
 ```
+
+#### 参考文献
+
+https://www.w3.org/TR/css-color-3/#svg-color
