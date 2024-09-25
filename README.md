@@ -2,6 +2,10 @@ dview-colors
 ![Release](https://jitpack.io/v/dora4/dview-colors.svg)
 --------------------------------
 
+#### 卡片
+
+![Dora视图_五彩缤纷的危险-](https://github.com/user-attachments/assets/9dad007c-04ec-4c3b-b75e-23dfedb19f84)
+
 #### Gradle依赖配置
 
 ```groovy
