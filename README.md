@@ -3,7 +3,7 @@ dview-colors
 --------------------------------
 
 #### 卡片
-![五彩斑斓的危险](https://github.com/user-attachments/assets/d4fa0a22-1d86-4d49-9d72-c6b0f5e87365)
+![五彩斑斓的危险](https://github.com/user-attachments/assets/11f38502-d9ec-4dc5-abc8-c7ec3357e6da)
 
 #### Gradle依赖配置
 
