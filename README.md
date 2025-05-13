@@ -3,12 +3,7 @@ dview-colors
 --------------------------------
 
 #### 卡片
-
-![Dora视图_五彩缤纷的危险-](https://github.com/user-attachments/assets/9dad007c-04ec-4c3b-b75e-23dfedb19f84)
-##### 卡名：Dora视图 五彩缤纷的危险
-###### 卡片类型：普通陷阱
-###### 属性：陷阱
-###### 效果：我方场地上名字带有「Dora视图」的怪兽作为攻击对象时，若攻击怪兽的守备力低于被攻击怪兽的守备力，则破坏攻击怪兽，并给予对方被攻击怪兽守备力的伤害。
+![五彩斑斓的危险](https://github.com/user-attachments/assets/d4fa0a22-1d86-4d49-9d72-c6b0f5e87365)
 
 #### Gradle依赖配置
 
